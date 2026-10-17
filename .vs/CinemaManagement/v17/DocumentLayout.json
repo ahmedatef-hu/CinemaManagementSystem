@@ -1,0 +1,649 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|c:\\users\\el rawad\\source\\repos\\cinemamanagement\\cinemamanagement\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|solutionrelative:cinemamanagement\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|c:\\users\\el rawad\\source\\repos\\cinemamanagement\\cinemamanagement\\repos\\implementations\\genrerepo .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|solutionrelative:cinemamanagement\\repos\\implementations\\genrerepo .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|c:\\users\\el rawad\\source\\repos\\cinemamanagement\\cinemamanagement\\repos\\implementations\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|solutionrelative:cinemamanagement\\repos\\implementations\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|c:\\users\\el rawad\\source\\repos\\cinemamanagement\\cinemamanagement\\repos\\interfaces\\igenrerepo .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|solutionrelative:cinemamanagement\\repos\\interfaces\\igenrerepo .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|c:\\users\\el rawad\\source\\repos\\cinemamanagement\\cinemamanagement\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|solutionrelative:cinemamanagement\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|c:\\users\\el rawad\\source\\repos\\cinemamanagement\\cinemamanagement\\dtos\\genre\\getgenredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|solutionrelative:cinemamanagement\\dtos\\genre\\getgenredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|c:\\users\\el rawad\\source\\repos\\cinemamanagement\\cinemamanagement\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|solutionrelative:cinemamanagement\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\Migrations\\20261017000515_SeedData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CinemaManagement\\Migrations\\20261017000515_SeedData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|c:\\users\\el rawad\\source\\repos\\cinemamanagement\\cinemamanagement\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|solutionrelative:cinemamanagement\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|c:\\users\\el rawad\\source\\repos\\cinemamanagement\\cinemamanagement\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|solutionrelative:cinemamanagement\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|c:\\users\\el rawad\\source\\repos\\cinemamanagement\\cinemamanagement\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|solutionrelative:cinemamanagement\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|c:\\users\\el rawad\\source\\repos\\cinemamanagement\\cinemamanagement\\repos\\implementations\\bookingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|solutionrelative:cinemamanagement\\repos\\implementations\\bookingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|c:\\users\\el rawad\\source\\repos\\cinemamanagement\\cinemamanagement\\repos\\interfaces\\ibookingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|solutionrelative:cinemamanagement\\repos\\interfaces\\ibookingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|c:\\users\\el rawad\\source\\repos\\cinemamanagement\\cinemamanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|solutionrelative:cinemamanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|c:\\users\\el rawad\\source\\repos\\cinemamanagement\\cinemamanagement\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|solutionrelative:cinemamanagement\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|c:\\users\\el rawad\\source\\repos\\cinemamanagement\\cinemamanagement\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|solutionrelative:cinemamanagement\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|c:\\users\\el rawad\\source\\repos\\cinemamanagement\\cinemamanagement\\dtos\\booking\\createbookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|solutionrelative:cinemamanagement\\dtos\\booking\\createbookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|c:\\users\\el rawad\\source\\repos\\cinemamanagement\\cinemamanagement\\repos\\interfaces\\imovierepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|solutionrelative:cinemamanagement\\repos\\interfaces\\imovierepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|c:\\users\\el rawad\\source\\repos\\cinemamanagement\\cinemamanagement\\dtos\\booking\\revenuedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|solutionrelative:cinemamanagement\\dtos\\booking\\revenuedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|c:\\users\\el rawad\\source\\repos\\cinemamanagement\\cinemamanagement\\dtos\\booking\\bookingdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|solutionrelative:cinemamanagement\\dtos\\booking\\bookingdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|c:\\users\\el rawad\\source\\repos\\cinemamanagement\\cinemamanagement\\controllers\\costumerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|solutionrelative:cinemamanagement\\controllers\\costumerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|c:\\users\\el rawad\\source\\repos\\cinemamanagement\\cinemamanagement\\mapping\\modelprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|solutionrelative:cinemamanagement\\mapping\\modelprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|c:\\users\\el rawad\\source\\repos\\cinemamanagement\\cinemamanagement\\dtos\\booking\\getbookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|solutionrelative:cinemamanagement\\dtos\\booking\\getbookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|c:\\users\\el rawad\\source\\repos\\cinemamanagement\\cinemamanagement\\repos\\implementations\\customerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|solutionrelative:cinemamanagement\\repos\\implementations\\customerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|c:\\users\\el rawad\\source\\repos\\cinemamanagement\\cinemamanagement\\repos\\interfaces\\icustomerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|solutionrelative:cinemamanagement\\repos\\interfaces\\icustomerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|c:\\users\\el rawad\\source\\repos\\cinemamanagement\\cinemamanagement\\dtos\\customer\\getcustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|solutionrelative:cinemamanagement\\dtos\\customer\\getcustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|c:\\users\\el rawad\\source\\repos\\cinemamanagement\\cinemamanagement\\dtos\\customer\\createcustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|solutionrelative:cinemamanagement\\dtos\\customer\\createcustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|c:\\users\\el rawad\\source\\repos\\cinemamanagement\\cinemamanagement\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|solutionrelative:cinemamanagement\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|c:\\users\\el rawad\\source\\repos\\cinemamanagement\\cinemamanagement\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|solutionrelative:cinemamanagement\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|c:\\users\\el rawad\\source\\repos\\cinemamanagement\\cinemamanagement\\repos\\implementations\\movierepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|solutionrelative:cinemamanagement\\repos\\implementations\\movierepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|c:\\users\\el rawad\\source\\repos\\cinemamanagement\\cinemamanagement\\dtos\\movie\\getmoviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|solutionrelative:cinemamanagement\\dtos\\movie\\getmoviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|c:\\users\\el rawad\\source\\repos\\cinemamanagement\\cinemamanagement\\dtos\\movie\\createmoviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|solutionrelative:cinemamanagement\\dtos\\movie\\createmoviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|c:\\users\\el rawad\\source\\repos\\cinemamanagement\\cinemamanagement\\repos\\interfaces\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|solutionrelative:cinemamanagement\\repos\\interfaces\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|c:\\users\\el rawad\\source\\repos\\cinemamanagement\\cinemamanagement\\dtos\\genre\\creategenredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|solutionrelative:cinemamanagement\\dtos\\genre\\creategenredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|c:\\users\\el rawad\\source\\repos\\cinemamanagement\\cinemamanagement\\cinemamanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|solutionrelative:cinemamanagement\\cinemamanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\Migrations\\20261016220139_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CinemaManagement\\Migrations\\20261016220139_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|c:\\users\\el rawad\\source\\repos\\cinemamanagement\\cinemamanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B5EB90D9-CD01-4547-9FC2-03FE9477E589}|CinemaManagement\\CinemaManagement.csproj|solutionrelative:cinemamanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20261017000515_SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\Migrations\\20261017000515_SeedData.cs",
+              "RelativeDocumentMoniker": "CinemaManagement\\Migrations\\20261017000515_SeedData.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\Migrations\\20261017000515_SeedData.cs",
+              "RelativeToolTip": "CinemaManagement\\Migrations\\20261017000515_SeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T00:05:15.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bookingsController.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\Controllers\\bookingsController.cs",
+              "RelativeDocumentMoniker": "CinemaManagement\\Controllers\\bookingsController.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\Controllers\\bookingsController.cs",
+              "RelativeToolTip": "CinemaManagement\\Controllers\\bookingsController.cs",
+              "ViewState": "AgIAAEAAAACAmJmZmZkBwE8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T23:36:11.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenreRepo .cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\Repos\\Implementations\\GenreRepo .cs",
+              "RelativeDocumentMoniker": "CinemaManagement\\Repos\\Implementations\\GenreRepo .cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\Repos\\Implementations\\GenreRepo .cs",
+              "RelativeToolTip": "CinemaManagement\\Repos\\Implementations\\GenreRepo .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T22:14:18.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "genresController.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\Controllers\\genresController.cs",
+              "RelativeDocumentMoniker": "CinemaManagement\\Controllers\\genresController.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\Controllers\\genresController.cs",
+              "RelativeToolTip": "CinemaManagement\\Controllers\\genresController.cs",
+              "ViewState": "AgIAAC8AAABANTMzMzMhwEEAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T22:22:34.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetGenreDTO.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\DTOs\\Genre\\GetGenreDTO.cs",
+              "RelativeDocumentMoniker": "CinemaManagement\\DTOs\\Genre\\GetGenreDTO.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\DTOs\\Genre\\GetGenreDTO.cs",
+              "RelativeToolTip": "CinemaManagement\\DTOs\\Genre\\GetGenreDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T22:20:35.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "CinemaManagement\\Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\Models\\Genre.cs",
+              "RelativeToolTip": "CinemaManagement\\Models\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T21:38:15.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IGenreRepo .cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\Repos\\Interfaces\\IGenreRepo .cs",
+              "RelativeDocumentMoniker": "CinemaManagement\\Repos\\Interfaces\\IGenreRepo .cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\Repos\\Interfaces\\IGenreRepo .cs",
+              "RelativeToolTip": "CinemaManagement\\Repos\\Interfaces\\IGenreRepo .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T22:14:27.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\Repos\\Implementations\\GenericRepo.cs",
+              "RelativeDocumentMoniker": "CinemaManagement\\Repos\\Implementations\\GenericRepo.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\Repos\\Implementations\\GenericRepo.cs",
+              "RelativeToolTip": "CinemaManagement\\Repos\\Implementations\\GenericRepo.cs",
+              "ViewState": "AgIAABIAAACA1MzMzMwEwCQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T22:04:22.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\UnitOFWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "CinemaManagement\\UnitOFWork\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\UnitOFWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "CinemaManagement\\UnitOFWork\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T22:17:22.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\UnitOFWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "CinemaManagement\\UnitOFWork\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\UnitOFWork\\UnitOfWork.cs",
+              "RelativeToolTip": "CinemaManagement\\UnitOFWork\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T22:17:30.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookingRepo.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\Repos\\Implementations\\BookingRepo.cs",
+              "RelativeDocumentMoniker": "CinemaManagement\\Repos\\Implementations\\BookingRepo.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\Repos\\Implementations\\BookingRepo.cs",
+              "RelativeToolTip": "CinemaManagement\\Repos\\Implementations\\BookingRepo.cs",
+              "ViewState": "AgIAAAgAAABQ/f////8wwB0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T23:36:58.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IBookingRepo.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\Repos\\Interfaces\\IBookingRepo.cs",
+              "RelativeDocumentMoniker": "CinemaManagement\\Repos\\Interfaces\\IBookingRepo.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\Repos\\Interfaces\\IBookingRepo.cs",
+              "RelativeToolTip": "CinemaManagement\\Repos\\Interfaces\\IBookingRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T23:36:51.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "CinemaManagement\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\Models\\Booking.cs",
+              "RelativeToolTip": "CinemaManagement\\Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T21:48:23.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "CinemaManagement\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\Models\\Movie.cs",
+              "RelativeToolTip": "CinemaManagement\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T21:41:11.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\Program.cs",
+              "RelativeDocumentMoniker": "CinemaManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\Program.cs",
+              "RelativeToolTip": "CinemaManagement\\Program.cs",
+              "ViewState": "AgIAAAkAAAComZmZmZk6wBcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T22:00:42.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CinemaManagement\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "CinemaManagement\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAqwFIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T21:54:13.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateBookingDTO.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\DTOs\\Booking\\CreateBookingDTO.cs",
+              "RelativeDocumentMoniker": "CinemaManagement\\DTOs\\Booking\\CreateBookingDTO.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\DTOs\\Booking\\CreateBookingDTO.cs",
+              "RelativeToolTip": "CinemaManagement\\DTOs\\Booking\\CreateBookingDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T23:33:48.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IMovieRepo.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\Repos\\Interfaces\\IMovieRepo.cs",
+              "RelativeDocumentMoniker": "CinemaManagement\\Repos\\Interfaces\\IMovieRepo.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\Repos\\Interfaces\\IMovieRepo.cs",
+              "RelativeToolTip": "CinemaManagement\\Repos\\Interfaces\\IMovieRepo.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIBaPQwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T22:39:29.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RevenueDTO.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\DTOs\\Booking\\RevenueDTO.cs",
+              "RelativeDocumentMoniker": "CinemaManagement\\DTOs\\Booking\\RevenueDTO.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\DTOs\\Booking\\RevenueDTO.cs",
+              "RelativeToolTip": "CinemaManagement\\DTOs\\Booking\\RevenueDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T23:40:07.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BookingDetailsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\DTOs\\Booking\\BookingDetailsDTO.cs",
+              "RelativeDocumentMoniker": "CinemaManagement\\DTOs\\Booking\\BookingDetailsDTO.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\DTOs\\Booking\\BookingDetailsDTO.cs",
+              "RelativeToolTip": "CinemaManagement\\DTOs\\Booking\\BookingDetailsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T23:39:43.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GetBookingDTO.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\DTOs\\Booking\\GetBookingDTO.cs",
+              "RelativeDocumentMoniker": "CinemaManagement\\DTOs\\Booking\\GetBookingDTO.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\DTOs\\Booking\\GetBookingDTO.cs",
+              "RelativeToolTip": "CinemaManagement\\DTOs\\Booking\\GetBookingDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T23:33:57.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "costumersController.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\Controllers\\costumersController.cs",
+              "RelativeDocumentMoniker": "CinemaManagement\\Controllers\\costumersController.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\Controllers\\costumersController.cs",
+              "RelativeToolTip": "CinemaManagement\\Controllers\\costumersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T23:26:16.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CustomerRepo.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\Repos\\Implementations\\CustomerRepo.cs",
+              "RelativeDocumentMoniker": "CinemaManagement\\Repos\\Implementations\\CustomerRepo.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\Repos\\Implementations\\CustomerRepo.cs",
+              "RelativeToolTip": "CinemaManagement\\Repos\\Implementations\\CustomerRepo.cs",
+              "ViewState": "AgIAABEAAADwMjMzMzMwwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T23:18:26.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ICustomerRepo.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\Repos\\Interfaces\\ICustomerRepo.cs",
+              "RelativeDocumentMoniker": "CinemaManagement\\Repos\\Interfaces\\ICustomerRepo.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\Repos\\Interfaces\\ICustomerRepo.cs",
+              "RelativeToolTip": "CinemaManagement\\Repos\\Interfaces\\ICustomerRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T23:18:21.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ModelProfile.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\Mapping\\ModelProfile.cs",
+              "RelativeDocumentMoniker": "CinemaManagement\\Mapping\\ModelProfile.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\Mapping\\ModelProfile.cs",
+              "RelativeToolTip": "CinemaManagement\\Mapping\\ModelProfile.cs",
+              "ViewState": "AgIAAAYAAAAAMzMzMzMbwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T22:21:30.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetCustomerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\DTOs\\Customer\\GetCustomerDTO.cs",
+              "RelativeDocumentMoniker": "CinemaManagement\\DTOs\\Customer\\GetCustomerDTO.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\DTOs\\Customer\\GetCustomerDTO.cs",
+              "RelativeToolTip": "CinemaManagement\\DTOs\\Customer\\GetCustomerDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T23:25:06.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CreateCustomerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\DTOs\\Customer\\CreateCustomerDTO.cs",
+              "RelativeDocumentMoniker": "CinemaManagement\\DTOs\\Customer\\CreateCustomerDTO.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\DTOs\\Customer\\CreateCustomerDTO.cs",
+              "RelativeToolTip": "CinemaManagement\\DTOs\\Customer\\CreateCustomerDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T23:24:57.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "moviesController.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\Controllers\\moviesController.cs",
+              "RelativeDocumentMoniker": "CinemaManagement\\Controllers\\moviesController.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\Controllers\\moviesController.cs",
+              "RelativeToolTip": "CinemaManagement\\Controllers\\moviesController.cs",
+              "ViewState": "AgIAACsAAAAA+P///z8kwJ0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T22:46:33.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "CinemaManagement\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\Models\\Customer.cs",
+              "RelativeToolTip": "CinemaManagement\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T21:46:54.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MovieRepo.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\Repos\\Implementations\\MovieRepo.cs",
+              "RelativeDocumentMoniker": "CinemaManagement\\Repos\\Implementations\\MovieRepo.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\Repos\\Implementations\\MovieRepo.cs",
+              "RelativeToolTip": "CinemaManagement\\Repos\\Implementations\\MovieRepo.cs",
+              "ViewState": "AgIAADYAAADAMzMzMzMtwEMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T22:39:21.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GetMovieDTO.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\DTOs\\Movie\\GetMovieDTO.cs",
+              "RelativeDocumentMoniker": "CinemaManagement\\DTOs\\Movie\\GetMovieDTO.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\DTOs\\Movie\\GetMovieDTO.cs",
+              "RelativeToolTip": "CinemaManagement\\DTOs\\Movie\\GetMovieDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T22:45:01.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CreateMovieDTO.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\DTOs\\Movie\\CreateMovieDTO.cs",
+              "RelativeDocumentMoniker": "CinemaManagement\\DTOs\\Movie\\CreateMovieDTO.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\DTOs\\Movie\\CreateMovieDTO.cs",
+              "RelativeToolTip": "CinemaManagement\\DTOs\\Movie\\CreateMovieDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T22:45:08.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CreateGenreDTO.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\DTOs\\Genre\\CreateGenreDTO.cs",
+              "RelativeDocumentMoniker": "CinemaManagement\\DTOs\\Genre\\CreateGenreDTO.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\DTOs\\Genre\\CreateGenreDTO.cs",
+              "RelativeToolTip": "CinemaManagement\\DTOs\\Genre\\CreateGenreDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T22:20:45.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IGenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\Repos\\Interfaces\\IGenericRepo.cs",
+              "RelativeDocumentMoniker": "CinemaManagement\\Repos\\Interfaces\\IGenericRepo.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\Repos\\Interfaces\\IGenericRepo.cs",
+              "RelativeToolTip": "CinemaManagement\\Repos\\Interfaces\\IGenericRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T22:04:13.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CinemaManagement",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\CinemaManagement.csproj",
+              "RelativeDocumentMoniker": "CinemaManagement\\CinemaManagement.csproj",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\CinemaManagement.csproj",
+              "RelativeToolTip": "CinemaManagement\\CinemaManagement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-16T22:03:52.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20261016220139_init.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\Migrations\\20261016220139_init.cs",
+              "RelativeDocumentMoniker": "CinemaManagement\\Migrations\\20261016220139_init.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\Migrations\\20261016220139_init.cs",
+              "RelativeToolTip": "CinemaManagement\\Migrations\\20261016220139_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T22:01:39.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "CinemaManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\CinemaManagement\\CinemaManagement\\appsettings.json",
+              "RelativeToolTip": "CinemaManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-16T22:00:14.583Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
